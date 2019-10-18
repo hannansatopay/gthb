@@ -2,3 +2,4 @@
 build
 dist
 gthb.egg-info
+.pypirc
